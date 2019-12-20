@@ -49,7 +49,7 @@ export default createMaterialBottomTabNavigator(
     initialRouteName: "Home",
     activeColor: "tomato",
     inactiveColor: "gray",
-    barStyle: { backgroundColor: "#f3f3f3" },
+    barStyle: { backgroundColor: "#111" },
     order: ["Home", "Add", "Finance", "User"]
   }
 );
